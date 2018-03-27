@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserPuzzle", "LaserPuzzle.csproj", "{FDE6E04B-9A65-3840-4D11-F1856D29ACA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserPuzzle.Plugins", "LaserPuzzle.Plugins.csproj", "{D2E156FB-1BD2-59EF-BB43-00A92EE42892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserPuzzle.Editor", "LaserPuzzle.Editor.csproj", "{7DC7BD8F-7283-8B1D-8A6A-23E6DA30E80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserPuzzle.Editor.Plugins", "LaserPuzzle.Editor.Plugins.csproj", "{2BEB8776-AC75-0B97-5023-E74CF7E3BF7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE6E04B-9A65-3840-4D11-F1856D29ACA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE6E04B-9A65-3840-4D11-F1856D29ACA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE6E04B-9A65-3840-4D11-F1856D29ACA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE6E04B-9A65-3840-4D11-F1856D29ACA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E156FB-1BD2-59EF-BB43-00A92EE42892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E156FB-1BD2-59EF-BB43-00A92EE42892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E156FB-1BD2-59EF-BB43-00A92EE42892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E156FB-1BD2-59EF-BB43-00A92EE42892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC7BD8F-7283-8B1D-8A6A-23E6DA30E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC7BD8F-7283-8B1D-8A6A-23E6DA30E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC7BD8F-7283-8B1D-8A6A-23E6DA30E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC7BD8F-7283-8B1D-8A6A-23E6DA30E80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEB8776-AC75-0B97-5023-E74CF7E3BF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEB8776-AC75-0B97-5023-E74CF7E3BF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEB8776-AC75-0B97-5023-E74CF7E3BF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEB8776-AC75-0B97-5023-E74CF7E3BF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
